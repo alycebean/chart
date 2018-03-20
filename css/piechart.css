@@ -1,0 +1,20 @@
+
+#topright{
+	border-radius: 500px 500px 500px 500px;
+    background: green;
+    width: 200px;
+    height: 200px; 
+    margin-left: 200px;
+    margin-top: -200px;
+}
+#botleft{ 
+    background: red;
+    width: 130px;
+    height: 130px; 
+}
+#botright{
+    background: red;
+    width: 130px;
+    height: 130px; 
+
+}
